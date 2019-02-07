@@ -1,3 +1,3 @@
-c=[(int(input())),(int(input())),(int(input()))]
-d=(max(c))
-print (d)
+a,b,c=input().split()
+a,b,c=int(a),int(b),int(c)
+print (max(a,b,c))
