@@ -1,4 +1,4 @@
 b="Hello \n"
-d=int(input())
+d=int(input("\n"))
 i=b*d
 print (i)
