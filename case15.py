@@ -1,6 +1,6 @@
 a,b=input().split( )
-x=int(a)
-y=int(b)
-for i in range(x+1,y):
+l=int(a)
+d=int(b)
+for i in range(l+1,d):
 	if(i%2==0):
 		print(i)
